@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactchetaanapp/static/css/main.67c35d8e.css",
+    "main.js": "/reactchetaanapp/static/js/main.24443886.js",
+    "index.html": "/reactchetaanapp/index.html",
+    "main.67c35d8e.css.map": "/reactchetaanapp/static/css/main.67c35d8e.css.map",
+    "main.24443886.js.map": "/reactchetaanapp/static/js/main.24443886.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67c35d8e.css",
+    "static/js/main.24443886.js"
+  ]
+}
